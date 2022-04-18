@@ -1,1 +1,5 @@
 # Autorickshaw-Detection
+
+This repository holds the notebook containing the code to detect auto rickshaws within an image.
+
+This project was built in collaboration with [@Abhigna](https://github.com/alpineFrost)
